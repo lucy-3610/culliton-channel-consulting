@@ -93,10 +93,10 @@ code {
 
 #channel-marketing img { transform: translate(-60%, -30%); }
 
-#about-us img { width: 100%; }
+// #about-us img { width: 100%; }
 
 @media screen and (min-width: 374px) and (min-height: 701px) {
-  #about-us img { width: auto; }
+  // #about-us img { width: auto; }
 
   #logistics img { transform: translate(-22%, -30%); }
 
@@ -107,7 +107,7 @@ code {
 @media screen and (min-width: 374px) and (max-height: 700px) {
   #logistics img { transform: translate(-50%, -30%); }
 
-  #about-us img { width: 100%; }
+  // #about-us img { width: 100%; }
 }
 
 .centered {
