@@ -13,7 +13,7 @@ export default class Footer extends React.Component {
                     <br />
                     Ponte Vedra Beach, FL 32082
                 </p>
-                <p id="copy">&copy; Copyright 2020, Culliton Channel Consulting. All Rights Reserved.</p>
+                <p id="copy">&copy; Copyright 2021, Culliton Channel Consulting. All Rights Reserved.</p>
             </div>
         );
     }
