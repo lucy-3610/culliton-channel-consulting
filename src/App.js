@@ -54,7 +54,7 @@ function App() {
            <Route 
             path="/product-pricing" 
             render={(props) => (
-              <Services title={"Product & Prcing"}
+              <Services title={"Product & Pricing"}
               id={"proudct-pricing"}
               alt={"Culliton Channel Consulting Product & Pricing"}
               mobileImg={mobileProductPricing}
