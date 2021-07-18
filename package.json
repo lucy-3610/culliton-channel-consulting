@@ -1,4 +1,7 @@
-// to publish to the homepage run the command "npm run deploy
+/* 
+  Only push to dev branch
+  To publish to the homepage run the command "npm run deploy"
+*/
 {
   "homepage": "https://cullitonchannelconsulting.com",
   "name": "culliton-channel-consulting",
