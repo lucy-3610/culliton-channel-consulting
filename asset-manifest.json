@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.875d09f2.chunk.css",
-    "main.js": "/static/js/main.0d2d2214.chunk.js",
-    "main.js.map": "/static/js/main.0d2d2214.chunk.js.map",
+    "main.js": "/static/js/main.c7709458.chunk.js",
+    "main.js.map": "/static/js/main.c7709458.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3597d8c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.3597d8c5.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -36,6 +36,7 @@
     "static/media/contract-negotiations_1500.a9de28f8.jpg": "/static/media/contract-negotiations_1500.a9de28f8.jpg",
     "static/media/contract-negotiations_2600.21a6f7dd.jpg": "/static/media/contract-negotiations_2600.21a6f7dd.jpg",
     "static/media/d_h-logo.58ca9810.jpg": "/static/media/d_h-logo.58ca9810.jpg",
+    "static/media/equa-logo.d448e1ab.png": "/static/media/equa-logo.d448e1ab.png",
     "static/media/excitrus-logo.a219402d.png": "/static/media/excitrus-logo.a219402d.png",
     "static/media/hyper-logo.436d54cc.jpg": "/static/media/hyper-logo.436d54cc.jpg",
     "static/media/iDeal-logo.58f25c80.jpg": "/static/media/iDeal-logo.58f25c80.jpg",
@@ -65,6 +66,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.79833f46.chunk.js",
     "static/css/main.875d09f2.chunk.css",
-    "static/js/main.0d2d2214.chunk.js"
+    "static/js/main.c7709458.chunk.js"
   ]
 }
