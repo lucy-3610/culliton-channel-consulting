@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.875d09f2.chunk.css",
-    "main.js": "/static/js/main.77f3e10b.chunk.js",
-    "main.js.map": "/static/js/main.77f3e10b.chunk.js.map",
+    "main.css": "/static/css/main.be78819b.chunk.css",
+    "main.js": "/static/js/main.14ce2fa6.chunk.js",
+    "main.js.map": "/static/js/main.14ce2fa6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3597d8c5.js",
     "runtime-main.js.map": "/static/js/runtime-main.3597d8c5.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -12,17 +12,18 @@
     "static/js/3.42edea95.chunk.js.map": "/static/js/3.42edea95.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.875d09f2.chunk.css.map": "/static/css/main.875d09f2.chunk.css.map",
+    "static/css/main.be78819b.chunk.css.map": "/static/css/main.be78819b.chunk.css.map",
     "static/js/2.79833f46.chunk.js.LICENSE.txt": "/static/js/2.79833f46.chunk.js.LICENSE.txt",
     "static/media/Bob_Culliton.ce6157c2.jpg": "/static/media/Bob_Culliton.ce6157c2.jpg",
     "static/media/CTA_Member_treatment.2526c298.jpg": "/static/media/CTA_Member_treatment.2526c298.jpg",
     "static/media/Culliton_Channel_Consulting_Logo.77d8291b.png": "/static/media/Culliton_Channel_Consulting_Logo.77d8291b.png",
-    "static/media/Julie_Coughlin.3b4775a0.jpg": "/static/media/Julie_Coughlin.3b4775a0.jpg",
+    "static/media/David_Nalley.a3e7d11d.jpg": "/static/media/David_Nalley.a3e7d11d.jpg",
     "static/media/KNOMO-logo.b00c6a62.png": "/static/media/KNOMO-logo.b00c6a62.png",
     "static/media/PK_paris-logo.4a387b48.jpg": "/static/media/PK_paris-logo.4a387b48.jpg",
     "static/media/Times-Square_1500.f41167d9.jpg": "/static/media/Times-Square_1500.f41167d9.jpg",
     "static/media/Times-Square_2600.b89b82f8.jpg": "/static/media/Times-Square_2600.b89b82f8.jpg",
     "static/media/XMI-logo.d4a3f68e.jpg": "/static/media/XMI-logo.d4a3f68e.jpg",
+    "static/media/ZenCase_logo.9366497f.png": "/static/media/ZenCase_logo.9366497f.png",
     "static/media/advisory-service_1500.26d57a23.jpg": "/static/media/advisory-service_1500.26d57a23.jpg",
     "static/media/advisory-service_2600.189c0236.jpg": "/static/media/advisory-service_2600.189c0236.jpg",
     "static/media/bazzlebaby-logo.4a76da06.png": "/static/media/bazzlebaby-logo.4a76da06.png",
@@ -65,7 +66,7 @@
     "static/js/runtime-main.3597d8c5.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.79833f46.chunk.js",
-    "static/css/main.875d09f2.chunk.css",
-    "static/js/main.77f3e10b.chunk.js"
+    "static/css/main.be78819b.chunk.css",
+    "static/js/main.14ce2fa6.chunk.js"
   ]
 }
