@@ -25,17 +25,23 @@ export default class Home extends React.Component {
                 </div>
 
                 <div className="body">
-                    <p className="text">
-                        Reaching customers with your brand or products is getting more difficult every day. The channels, or pathways are
-                        becoming more challenging, more costly, or are closing altogether. Thankfully, new opportunities are opening.
-                        <br /><br />
-                        Culliton Channel Consulting is expert in finding the best path for your brand and products to reach customers in the
-                        US and Canada. Since our firm opened in early 2015, we have applied our vast experience of preparing and launching
-                        new brands and products, leveraging our broad channel customer relationships and a robust services network to
-                        maximize the potential for our client's. Our team assists clients prepare for market entrance through careful
-                        analysis and strategy, and then helps them become channel or retail ready. We work with our clients to set up and
-                        manage logistics, run sales and create and execute channel marketing. For some clients we run their US operations.
-                    </p>
+                    <div className="container">
+                        <div className="row">
+                            <div className="col">
+                                <p className="text">
+                                    Reaching customers with your brand or products is getting more difficult every day. The channels, or pathways are
+                                    becoming more challenging, more costly, or are closing altogether. Thankfully, new opportunities are opening.
+                                    <br /><br />
+                                    Culliton Channel Consulting is expert in finding the best path for your brand and products to reach customers in the
+                                    US and Canada. Since our firm opened in early 2015, we have applied our vast experience of preparing and launching
+                                    new brands and products, leveraging our broad channel customer relationships and a robust services network to
+                                    maximize the potential for our client's. Our team assists clients prepare for market entrance through careful
+                                    analysis and strategy, and then helps them become channel or retail ready. We work with our clients to set up and
+                                    manage logistics, run sales and create and execute channel marketing. For some clients we run their US operations.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                     <div id="service-info">
                         <div className="plan">
                             <h1>Plan&nbsp;&amp;&nbsp;Execute</h1>

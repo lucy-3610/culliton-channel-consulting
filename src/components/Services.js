@@ -18,7 +18,13 @@ export default class Services extends React.Component {
                             <h1 className="centered centered-style">{this.props.title}</h1>
                         </div>
                         <div className="body">
-                            <p className="text">{this.props.info}</p>
+                            <div className="container">
+                                <div className="row">
+                                    <div className="col">
+                                        <p className="text">{this.props.info}</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <Footer />

@@ -90,6 +90,19 @@ code {
 
 #channel-marketing img { transform: translate(-60%, -30%); }
 
+.about-us {
+  .container {
+    img {
+      width: 100%;
+      height: auto;
+      margin: 0 auto;
+    }
+  }
+  a {
+    word-break: break-word;
+  }
+}
+
 // #about-us img { width: 100%; }
 
 @media screen and (min-width: 374px) and (min-height: 701px) {
@@ -132,8 +145,8 @@ code {
 }
 
 .text { 
-  width: 80%;
-  margin: 0 auto;
+  // width: 80%;
+  // margin: 0 auto;
 }
 
 #mobile-plan { font-size: 1.75rem; }
@@ -189,17 +202,24 @@ code {
   margin: 15% auto;
 }
 
-.sm-img img {
-  width: 75%;
-  display: block;
-}
+
 
 .client-logos {
   div { 
     width: 75%;
     margin: 0 auto; 
   }
-  img { width: 70%; }
+  img { 
+    display: flex;
+    width: 100%;
+  }
+  .md-img img {
+    width: 90%;
+  }
+  .sm-img img {
+    width: 75%;
+    // display: block;
+  }
 }
 
 .testimonials { 
@@ -330,7 +350,7 @@ ul {
     width: 80%;
     margin: 25% auto 5% auto;
   }
-  .text, #service-info {
+  #service-info {
     width: 70%;
   }
   #desktop-plan { display: block; }
@@ -380,7 +400,7 @@ ul {
       float: right;
       margin-left: 5%;
     }
-    #julie {
+    #david {
       float: left;
       margin-right: 5%;
       overflow: hidden;
