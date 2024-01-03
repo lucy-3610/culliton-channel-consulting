@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4cd4c41c.css",
-    "main.js": "/static/js/main.9dae7b79.js",
+    "main.css": "/static/css/main.e2a57d31.css",
+    "main.js": "/static/js/main.146c8293.js",
     "static/js/377.06d3e303.chunk.js": "/static/js/377.06d3e303.chunk.js",
     "static/media/mobile-home.png": "/static/media/mobile-home.6ba9780b05840fcfe53e.png",
     "static/media/Times-Square_2600.jpg": "/static/media/Times-Square_2600.b89b82f8f3f157d36f80.jpg",
@@ -23,7 +23,7 @@
     "static/media/logistics_1500.jpg": "/static/media/logistics_1500.9b042e72ab4fbb23ee7e.jpg",
     "static/media/channel-marketing_1500.jpg": "/static/media/channel-marketing_1500.1bbe2fa40e99ee41019a.jpg",
     "static/media/contract-negotiations_1500.jpg": "/static/media/contract-negotiations_1500.a9de28f884ed0d3b8693.jpg",
-    "static/media/CTA_Member_treatment.jpg": "/static/media/CTA_Member_treatment.2526c298e1e760696af3.jpg",
+    "static/media/CTA_Member_treatment.png": "/static/media/CTA_Member_treatment.4b848add38dbf30b999d.png",
     "static/media/blue-map_1500.jpg": "/static/media/blue-map_1500.2c6b8f10d6a66dbac22e.jpg",
     "static/media/iDeal-logo.jpg": "/static/media/iDeal-logo.58f25c80bdb9df4a33c2.jpg",
     "static/media/hyper-logo.jpg": "/static/media/hyper-logo.436d54cc458926310790.jpg",
@@ -51,14 +51,18 @@
     "static/media/PK_paris-logo.jpg": "/static/media/PK_paris-logo.4a387b48c9b2437bd402.jpg",
     "static/media/bazzlebaby-logo.png": "/static/media/bazzlebaby-logo.4a76da068b4f6468a030.png",
     "static/media/laxon-logo.PNG": "/static/media/laxon-logo.8f6c2ba613d9283a8a02.PNG",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/moshi-logo.svg": "/static/media/moshi-logo.4fd307321e5e028d2f7aa16d34c631e4.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.4cd4c41c.css.map": "/static/css/main.4cd4c41c.css.map",
-    "main.9dae7b79.js.map": "/static/js/main.9dae7b79.js.map",
+    "main.e2a57d31.css.map": "/static/css/main.e2a57d31.css.map",
+    "main.146c8293.js.map": "/static/js/main.146c8293.js.map",
     "377.06d3e303.chunk.js.map": "/static/js/377.06d3e303.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cd4c41c.css",
-    "static/js/main.9dae7b79.js"
+    "static/css/main.e2a57d31.css",
+    "static/js/main.146c8293.js"
   ]
 }
