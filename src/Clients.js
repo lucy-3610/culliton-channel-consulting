@@ -19,6 +19,9 @@ import moshi from './images/Client Logos/moshi-logo.svg';
 import equa from './images/Client Logos/equa-logo.png';
 import goat_story from './images/Client Logos/goat-story-logo.png';
 import zencase from './images/Client Logos/ZenCase_logo.png';
+import RentnConnect from './images/Client Logos/RentnConnect-Logo.jpg';
+import laxon from './images/Client Logos/laxon-logo.PNG';
+import drwell from './images/Client Logos/dr-well-logo.png';
 import Footer from './components/Footer';
 import Header from './components/Header';
 
@@ -104,8 +107,17 @@ export default class Clients extends React.Component {
                                     <img alt="Goat Story Logo" src={goat_story} />
                                 </div>
                                 <div className="col-lg-12 d-none d-lg-block"></div>
-                                <div className="col-xs-9 col-sm-12 col-md-3 col-lg-2 px-sm-0">
+                                <div className="md-img col-xs-9 col-sm-12 col-md-3 col-lg-3">
                                     <img alt="ZenCase Logo" src={zencase} />
+                                </div>
+                                <div className="col-xs-9 col-sm-12 col-md-3 col-lg-3">
+                                    <img alt="Rent`nConnect Logo" src={RentnConnect} />
+                                </div>
+                                <div className="col-xs-9 col-sm-12 col-md-3 col-lg-2">
+                                    <img alt="Laxon Logo" src={laxon} />
+                                </div>
+                                <div className="col-xs-9 col-sm-12 col-md-3 col-lg-2">
+                                    <img alt="Dr. Well Logo" src={drwell} />
                                 </div>
                             </div>
                         </div>

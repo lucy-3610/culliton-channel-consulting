@@ -1,5 +1,6 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from './Home';
+import AllServices from './components/AllServices';
 import Services from './components/Services';
 import Clients from './Clients';
 import Testimonials from './Testimonials';
@@ -26,7 +27,6 @@ import sales2600 from './images/Services-Pages-Images/sales_2600.jpg';
 import mobileChannelMarketing from './images/Mobile-Images/mobile-channel-marketing.jpg';
 import channelMarketing1500 from './images/Services-Pages-Images/channel-marketing_1500.jpg';
 import channelMarketing2600 from './images/Services-Pages-Images/channel-marketing_2600.jpg';
-
 
 import './App.css';
 
@@ -129,6 +129,7 @@ function App() {
               />
             )}
            />
+           <Route path="/services" component={AllServices}></Route>
           <Route path="/clients" component={Clients}></Route>
           <Route path="/testimonials" component={Testimonials}></Route>
           <Route path="/about-us" component={AboutUs}></Route>
