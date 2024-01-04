@@ -17,7 +17,7 @@ export default class Home extends React.Component {
                 <div id="home" className="header-image">
                     <img alt="Culliton Channel Consulting Home" src={home2600} srcSet={`${mobileHome} 500w, ${home1500} 1500w, ${home2600} 2600w`} />
                     <div className="overlay"></div>
-                    <h1 className="centered centered-style">Specializing in taking early-stage consumer tech companies to the US and Canadian Markets</h1>
+                    <h1 className="centered centered-style">Specializing in taking early-stage tech companies to the US and Canadian Markets</h1>
                 </div>
 
                 <div className="body pt-2 pb-0 p-sm-5">

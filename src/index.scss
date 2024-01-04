@@ -512,6 +512,10 @@ ul {
     }
   }
 
+  #home h1 {
+    width: 60%;
+  }
+
   #client-header,
   #testimonial-header {
     width: 80%;
@@ -729,6 +733,10 @@ ul {
 }
 
 @media screen and (min-width: 1600px) {
+  #home h1 {
+    width: 55%;
+  }
+
   .centered-style {
     width: 65%;
   }
