@@ -33,27 +33,6 @@ export default class Header extends React.Component {
                         <NavLink to={"/services"}>
                             Services
                         </NavLink>
-                        <NavLink to={"/advisory-service"}>
-                            Advisory Service
-                        </NavLink>
-                        <NavLink to={"/product-pricing"}>
-                            Product&nbsp;&amp;&nbsp;Pricing
-                        </NavLink>
-                        <NavLink to={"/channel-account-strategy"}>
-                            Channel&nbsp;&amp;&nbsp;Account Strategy
-                        </NavLink>
-                        <NavLink to={"/logistics"}>
-                            Logistics
-                        </NavLink>
-                        <NavLink to={"/contract-negotiations"}>
-                            Contract Negotiations
-                        </NavLink>
-                        <NavLink to={"/sales"}>
-                            Sales
-                        </NavLink>
-                        <NavLink to={"/channel-marketing"}>
-                            Channel Marketing
-                        </NavLink>
                         <NavLink to={"clients"}>
                             Clients
                         </NavLink>
@@ -70,35 +49,9 @@ export default class Header extends React.Component {
                     <NavLink to={"/"}>
                         <p>Home</p>
                     </NavLink>
-
-                    <div className="dropdown">
-                        <NavLink to={"/services"}>
-                            <p>Services &#9660;</p>
-                        </NavLink>
-                        <div className="dropdown-content">
-                            <NavLink to={"/advisory-service"}>
-                                Advisory Service
-                            </NavLink>
-                            <NavLink to={"/product-pricing"}>
-                                Product&nbsp;&amp;&nbsp;Pricing
-                            </NavLink>
-                            <NavLink to={"/channel-account-strategy"}>
-                                Channel&nbsp;&amp;&nbsp;Account Strategy
-                            </NavLink>
-                            <NavLink to={"/logistics"}>
-                                Logistics
-                            </NavLink>
-                            <NavLink to={"/contract-negotiations"}>
-                                Contract Negotiations
-                            </NavLink>
-                            <NavLink to={"/sales"}>
-                                Sales
-                            </NavLink>
-                            <NavLink to={"/channel-marketing"}>
-                                Channel Marketing
-                            </NavLink>
-                        </div>
-                    </div>
+                    <NavLink to={"/services"}>
+                        <p>Services</p>
+                    </NavLink>
                     <NavLink to={"clients"}>
                         <p>Clients</p>
                     </NavLink>

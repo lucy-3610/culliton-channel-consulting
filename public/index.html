@@ -64,6 +64,20 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+  <script>
+    window.onscroll = function () {
+      growShrinkLogo()
+    };
+
+    function growShrinkLogo() {
+      var Logo = document.getElementById("logo")
+      if (document.body.scrollTop > 5 || document.documentElement.scrollTop > 5) {
+        Logo.style.width = '150px';
+      } else {
+        Logo.style.width = '200px';
+      }
+    }
+  </script>
 </body>
 
 </html>
