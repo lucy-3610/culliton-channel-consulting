@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2a57d31.css",
-    "main.js": "/static/js/main.146c8293.js",
+    "main.css": "/static/css/main.2605a3ac.css",
+    "main.js": "/static/js/main.bdc57a6a.js",
     "static/js/377.06d3e303.chunk.js": "/static/js/377.06d3e303.chunk.js",
     "static/media/mobile-home.png": "/static/media/mobile-home.6ba9780b05840fcfe53e.png",
     "static/media/Times-Square_2600.jpg": "/static/media/Times-Square_2600.b89b82f8f3f157d36f80.jpg",
@@ -57,12 +57,12 @@
     "static/media/moshi-logo.svg": "/static/media/moshi-logo.4fd307321e5e028d2f7aa16d34c631e4.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e2a57d31.css.map": "/static/css/main.e2a57d31.css.map",
-    "main.146c8293.js.map": "/static/js/main.146c8293.js.map",
+    "main.2605a3ac.css.map": "/static/css/main.2605a3ac.css.map",
+    "main.bdc57a6a.js.map": "/static/js/main.bdc57a6a.js.map",
     "377.06d3e303.chunk.js.map": "/static/js/377.06d3e303.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a57d31.css",
-    "static/js/main.146c8293.js"
+    "static/css/main.2605a3ac.css",
+    "static/js/main.bdc57a6a.js"
   ]
 }
