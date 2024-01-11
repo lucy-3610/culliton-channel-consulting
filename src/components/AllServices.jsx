@@ -57,12 +57,12 @@ export default class AllServices extends Component {
                 </div>
                 <div className="row py-4">
                     <div className="col-lg-6">
-                        <img alt="Culliton Channel Consulting Channel Account Strategy"
+                        <img alt="Culliton Channel Consulting Go to Market Strategy"
                             src={channelAccountStrategy2600}
                             srcSet={`${mobileChannelAccountStrategy} 500w, ${channelAccountStrategy1500} 1500w, ${channelAccountStrategy2600} 2600w`} />
                     </div>
                     <div className="col-lg-6">
-                        <h2 className='mt-4 mt-lg-0'>Channel Account Strategy</h2>
+                        <h2 className='mt-4 mt-lg-0'>Go to Market Strategy</h2>
                         <p>
                             Ready! Fire! Aim! Is not the way you want to enter the market. It is important to plan your channel partner strategy carefully so you take your products to the resellers and retailers where they will have a high degree of success, and select channel partners that align to your financial and operational capabilities. Through our broad knowledge of North American resellers, retailers, etailers, alternative channels and customer demographics, Culliton Channel Consulting maps out the channel strategy that will most benefit our clients. We start by accessing where and how customers will interact and ultimately purchase client products, and which channel partners best support that customer base and engagement need. We then look at brand and company alignment to the target resellers or online/offline retailers. From the selected group of targets, we determine if a direct, indirect or hybrid approach is most appropriate. Finally, we determine which distributors are best positioned to serve that customer base. Culliton Channel Consulting creates Channel Strategy Guides as a project or part of a longer-term engagement.
                         </p>
