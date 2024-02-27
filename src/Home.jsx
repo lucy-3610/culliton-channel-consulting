@@ -32,15 +32,10 @@ export default class Home extends React.Component {
                                 </h5>
                             </div>
                             <div className="col-lg-7">
-                                Culliton Channel Consulting is expert in finding the best path for your brand and products to reach customers in the
-                                US and Canada. Since our firm opened in early 2015, we have applied our vast experience of preparing and launching
-                                new brands and products, leveraging our broad channel customer relationships and a robust services network to
-                                maximize the potential for our client's.
+                                Culliton Channel Consulting is expert in finding the best path for your brand and products to reach customers in the US and Canada. Since our firm opened in early 2015, we have applied our vast experience of preparing and launching new brands and products and leveraged our broad channel customer relationships and robust services network to maximize the potential for our clients.
                                 <br></br>
                                 <br></br>
-                                Our team assists clients prepare for market entrance through careful
-                                analysis and strategy, and then helps them become channel or retail ready. We work with our clients to set up and
-                                manage logistics, run sales and create and execute channel marketing. For some clients we run their US operations.
+                                Our team assists clients prepare for market entrance through careful analysis and strategy, and then helps them become channel or retail ready. We work with our clients to finalize product positioning, packaging and pricing, setup their US company & bank if needed, setup and manage logistics, run sales and create and execute channel marketing. For some clients we run their US operations.
                             </div>
                         </div>
                     </div>
