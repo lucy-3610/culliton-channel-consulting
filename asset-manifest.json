@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.42bca009.css",
-    "main.js": "/static/js/main.9c3ccec8.js",
+    "main.js": "/static/js/main.2a028cc8.js",
     "static/js/377.06d3e303.chunk.js": "/static/js/377.06d3e303.chunk.js",
     "static/media/mobile-home.png": "/static/media/mobile-home.6ba9780b05840fcfe53e.png",
     "static/media/Times-Square_2600.jpg": "/static/media/Times-Square_2600.b89b82f8f3f157d36f80.jpg",
@@ -39,6 +39,7 @@
     "static/media/mobile-channel-marketing.jpg": "/static/media/mobile-channel-marketing.2284e40922a5cf3e709f.jpg",
     "static/media/mobile-map.jpg": "/static/media/mobile-map.f3748fbcbc3da5fe0ab7.jpg",
     "static/media/invidyo-logo.png": "/static/media/invidyo-logo.a68858f7f43dd9ad64b7.png",
+    "static/media/InfinityPro-New-Logo.png": "/static/media/InfinityPro-New-Logo.22bbc366add4db88a0eb.png",
     "static/media/mobile-contract-negotiations.jpg": "/static/media/mobile-contract-negotiations.f03c6d5ef84d11f2a0f9.jpg",
     "static/media/equa-logo.png": "/static/media/equa-logo.d448e1ab477a11fe3b7f.png",
     "static/media/meta-logo.png": "/static/media/meta-logo.d561f488fa2dfca57252.png",
@@ -50,6 +51,7 @@
     "static/media/oaxis-logo.png": "/static/media/oaxis-logo.d118a15f14f77a8436d2.png",
     "static/media/PK_paris-logo.jpg": "/static/media/PK_paris-logo.4a387b48c9b2437bd402.jpg",
     "static/media/bazzlebaby-logo.png": "/static/media/bazzlebaby-logo.4a76da068b4f6468a030.png",
+    "static/media/Tack-One-Logo.png": "/static/media/Tack-One-Logo.6cabb1cb6ef1f775e3a0.png",
     "static/media/laxon-logo.PNG": "/static/media/laxon-logo.8f6c2ba613d9283a8a02.PNG",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "index.html": "/index.html",
@@ -58,11 +60,11 @@
     "static/media/moshi-logo.svg": "/static/media/moshi-logo.4fd307321e5e028d2f7aa16d34c631e4.svg",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.42bca009.css.map": "/static/css/main.42bca009.css.map",
-    "main.9c3ccec8.js.map": "/static/js/main.9c3ccec8.js.map",
+    "main.2a028cc8.js.map": "/static/js/main.2a028cc8.js.map",
     "377.06d3e303.chunk.js.map": "/static/js/377.06d3e303.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42bca009.css",
-    "static/js/main.9c3ccec8.js"
+    "static/js/main.2a028cc8.js"
   ]
 }
